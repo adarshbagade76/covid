@@ -1,0 +1,31 @@
+ /* Covid CSS */
+.card-body {
+    flex: 1 1 auto;
+    padding: 3rem 1rem;
+}
+.center{
+    text-align: center;
+}
+.live{
+    position: absolute;
+    color: red;
+    left: 60rem;
+    top: 1rem;
+    font-size: inherit;  
+}
+.bgcolor{
+    background-color: rgba(50, 115, 220, 0.3);
+    height: 741px;
+
+}
+.colorred{
+    color: red;
+}
+.ccolorgreen{
+
+    color: green;
+    font-weight: bolder;
+}
+.colorblue{
+    color: bisque;
+}
